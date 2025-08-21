@@ -48,10 +48,10 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 ---
 
 ## 🚀 Features Projects
-- [**Milestonely**](https://github.com/nruizcano/milestonely)
+- [**Milestonely**](https://github.com/nruizcano/milestonely)  
   *A web application that allows users to manage projects, teams, and tasks in a structured and organised way. It is designed to be user-friendly and intuitive, streamlining projects, teams, and tasks management.*
 
-- [**Photo&Film4You**](https://github.com/nruizcano/photo-film4you)
+- [**Photo&Film4You**](https://github.com/nruizcano/photo-film4you)  
   *A platform that allows users to browse, rent, and manage photography equipment. It includes features like user authentication, internationalisation, wish lists, carts, rental requests, incident reporting, and reviews. Admins can manage the catalogue, oversee rentals, and handle incident resolution.*
 
 - [**Aircraft Scanner**](https://github.com/nruizcano/aircraft-scanner)  
