@@ -5,11 +5,11 @@
 Passionate about crafting scalable, modern, and user-centric solutions.
 
 ## 👩🏻‍💻 About Me
-I pursued my passion for Software Engineering at UOC University, where I built a strong foundation. In addition to my formal education, I've continuously expanded my skill set through hands-on projects and technical courses, always staying curious and committed to growth.
+I pursued my passion for Software Engineering at UOC University, where I built a strong foundation. In addition to my formal education, I've continuously expanded my skill set through hands-on projects and technical courses, always staying curious.
 
 As a Full-Stack Web Developer, I specialise in building modern web applications using technologies like React, Next.js, and Vue.js, comfortable working across the stack using Node.js, Express.js, Spring Boot, and PostgreSQL. My main programming languages are JavaScript, TypeScript, and Java. I have experience developing RESTful APIs, microservices, and CI/CD pipelines, as well as implementing Authentication and Authorisation solutions. I also work with a variety of tools and platforms such as Git, Docker, Postman, Vercel, and Supabase, and write reliable tests with Vitest, Cypress, Jest and JUnit.
 
-I'm proactive, adaptable, and detail-oriented, with a strong commitment to continuous learning through hands-on projects and technical courses. Drawn to the creativity, problem-solving, and constant growth that software development offers, I'm eager to contribute to impactful, real-world products in a collaborative, professional environment.
+I'm proactive, adaptable, detail-oriented, and commitment to continuous learning. Drawn to the creativity, problem-solving, and constant growth that software development offers, I'm eager to contribute to impactful, real-world products in a collaborative, professional environment.
 
 ---
 
