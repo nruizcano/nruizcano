@@ -1,6 +1,6 @@
 ## Hi there, I'm Nerea! 👋
 
-**Software Engineer | Full-Stack Web Developer**
+**Software Engineer**
 
 Passionate about crafting scalable, modern, and user-centric solutions.
 
@@ -35,7 +35,6 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-13cf83?logo=supabase&logoColor=white&style=for-the-badge)
 
@@ -44,20 +43,27 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 🚀 Features Projects
-- [**Milestonely**](https://github.com/nruizcano/milestonely)  
-  *A web application that allows users to manage projects, teams, and tasks in a structured and organised way. It is designed to be user-friendly and intuitive, streamlining projects, teams, and tasks management.*
+- [**Milestonely**](https://milestonely.vercel.app/)  
+  *A project and team management web application built with Vue.js and Vite, offering an intuitive interface for organizing projects, managing tasks, and collaborating within teams. The backend leverages PostgreSQL with Supabase for database management and authentication, while Vitest ensures reliable testing and maintainability. Designed for streamlined productivity, it balances usability with performance.*
 
-- [**Photo&Film4You**](https://github.com/nruizcano/photo-film4you)  
-  *A platform that allows users to browse, rent, and manage photography equipment. It includes features like user authentication, internationalisation, wish lists, carts, rental requests, incident reporting, and reviews. Admins can manage the catalogue, oversee rentals, and handle incident resolution.*
+- [**Photo&Film4You**](https://photo-film4you.vercel.app/)  
+  *A photography equipment rental platform developed with Vue.js and Vite, enabling users to browse, rent, and manage gear with ease. The application integrates Supabase with a PostgreSQL database for authentication and secure data handling, and supports internationalisation through i18n. Key features include wish lists, shopping carts, rental requests, incident reports, and user reviews. An admin dashboard provides catalogue management, rental oversight, and incident resolution.*
 
-- [**Aircraft Scanner**](https://github.com/nruizcano/aircraft-scanner)  
-  *A mobile web application that leverages OpenAI's AI model to identify any aircraft from a photo and provide detailed information about it.*
+- [**Aircraft Scanner**](https://aircraft-scanner.vercel.app/)  
+  *A mobile-first web application built with Next.js that leverages the OpenAI API to identify aircraft from photos taken or uploaded by users. It provides detailed specifications and contextual information about each aircraft, combining a modern, responsive UI with AI-powered image recognition.*
 
-- [**Sorting Algorithms Visualizer**](https://github.com/nruizcano/sorting-algorithms-visualizer)  
+- [**Real-Time Chat Server**](https://github.com/nruizcano/real-time-chat-server)  
+  *A real-time chat server built with Node.js and Socket.io, featuring persistent message storage using Turso (libSQL), enabling instant messaging with user notifications and message history.*
+
+- [**Nanmane Discord Bot**](https://github.com/nruizcano/nanmane-discord-bot)  
+  *A versatile Node.js-powered Discord bot that integrates with the Discord API to support server administration and moderation. Features include automated moderation tools, time-management utilities, and entertainment commands, delivering both productivity and engagement for community servers.*
+
+- [**Sorting Algorithms Visualizer**](https://sorting-algorithms-visualizer-seven.vercel.app/)  
   *An interactive tool designed to visualise various sorting algorithms in action, including Insertion Sort, Bubble Sort, Quick Sort, Merge Sort, and Heap Sort, to aid in understanding their behaviour.*
 
 ---
