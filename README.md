@@ -7,7 +7,7 @@ Passionate about crafting scalable, modern, and user-centric solutions.
 ## 👩🏻‍💻 About Me
 I pursued my passion for Software Engineering at UOC University, where I built a strong foundation. In addition to my formal education, I've continuously expanded my skill set through hands-on projects and technical courses, always staying curious.
 
-As a Full-Stack Web Developer, I specialise in building modern web applications using technologies like React, Next.js, and Vue.js, comfortable working across the stack using Node.js, Express.js, Spring Boot, and PostgreSQL. My main programming languages are JavaScript, TypeScript, and Java. I have experience developing RESTful APIs, microservices, and CI/CD pipelines, as well as implementing Authentication and Authorisation solutions. I also work with a variety of tools and platforms such as Git, Docker, Postman, Vercel, and Supabase, and write reliable tests with Vitest, Cypress, Jest and JUnit.
+As a Full-Stack Web Developer, I specialise in building modern web applications using technologies like React, Next.js, and Vue.js, comfortable working across the stack using Node.js, Express, Spring Boot, PostgreSQL, and MongoDB. My main programming languages are JavaScript, TypeScript, and Java. I have experience developing RESTful APIs, microservices, and CI/CD pipelines, as well as implementing Authentication and Authorisation solutions. I also work with a variety of tools and platforms such as Git, Docker, Postman, Vercel, and Supabase, and write reliable tests with Vitest, Cypress, Jest and JUnit.
 
 I'm proactive, adaptable, detail-oriented, and committed to continuous learning. Drawn to the creativity, problem-solving, and constant growth that software development offers, I'm eager to contribute to impactful, real-world products in a collaborative, professional environment.
 
@@ -29,9 +29,10 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
@@ -57,8 +58,11 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 - [**Aircraft Scanner**](https://aircraft-scanner.vercel.app/)  
   *A mobile-first web application built with Next.js that leverages the OpenAI API to identify aircraft from photos taken or uploaded by users. It provides detailed specifications and contextual information about each aircraft, combining a modern, responsive UI with AI-powered image recognition.*
 
+- [**Piano Web**](https://piano-web-omega.vercel.app/)  
+  *Developed with Next.js and designed to showcase my journey as a pianist, share musical performances, and provide a direct contact channel. This website integrates MongoDB for sheet music management, the YouTube API to automatically display my covers, and the Maileroo API for sending messages through the contact form.*
+
 - [**Real-Time Chat Server**](https://github.com/nruizcano/real-time-chat-server)  
-  *A real-time chat server built with Node.js and Socket.io, featuring persistent message storage using Turso (libSQL), enabling instant messaging with user notifications and message history.*
+  *A real-time chat server built with Node.js, Express and Socket.io, featuring persistent message storage using Turso (libSQL), enabling instant messaging with user notifications and message history.*
 
 - [**Nanmane Discord Bot**](https://github.com/nruizcano/nanmane-discord-bot)  
   *A versatile Node.js-powered Discord bot that integrates with the Discord API to support server administration and moderation. Features include automated moderation tools, time-management utilities, and entertainment commands, delivering both productivity and engagement for community servers.*
@@ -70,7 +74,7 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/nerea-ruiz-cano-b79535281)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)](https://nerearuizcano.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)](https://www.nerearuizcano.dev/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nerearuizcano@gmail.com)
 
 ⭐️ *Feel free to check out my repositories and connect!*
