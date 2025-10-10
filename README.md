@@ -47,7 +47,7 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 
 ---
 
-## 🚀 Features Projects
+## 🚀 Featured Projects
 - [**Milestonely**](https://milestonely.vercel.app/)  
   *A project and team management web application built with Vue.js and Vite, offering an intuitive interface for organizing projects, managing tasks, and collaborating within teams. The backend leverages PostgreSQL with Supabase for database management and authentication, while Vitest ensures reliable testing and maintainability. Designed for streamlined productivity, it balances usability with performance.*
 
