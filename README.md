@@ -58,7 +58,7 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 - [**Aircraft Scanner**](https://aircraft-scanner.vercel.app/)  
   *A mobile-first web application built with Next.js that leverages the OpenAI API to identify aircraft from photos taken or uploaded by users. It provides detailed specifications and contextual information about each aircraft, combining a modern, responsive UI with AI-powered image recognition.*
 
-- [**Piano Web**](https://piano-web-omega.vercel.app/)  
+- [**Piano Web**](https://www.nerearuizcano.me/)  
   *Developed with Next.js and designed to showcase my journey as a pianist, share musical performances, and provide a direct contact channel. This website integrates MongoDB for sheet music management, the YouTube API to automatically display my covers, and the Maileroo API for sending messages through the contact form.*
 
 - [**Real-Time Chat Server**](https://github.com/nruizcano/real-time-chat-server)  
