@@ -7,9 +7,11 @@ Passionate about crafting scalable, modern, and user-centric solutions.
 ## 👩🏻‍💻 About Me
 I pursued my passion for Software Engineering at UOC University, where I built a strong foundation. In addition to my formal education, I've continuously expanded my skill set through hands-on projects and technical courses, always staying curious.
 
-As a Full-Stack Web Developer, I specialise in building modern web applications using technologies like React, Next.js, and Vue.js, comfortable working across the stack using Node.js, Express, Spring Boot, PostgreSQL, and MongoDB. My main programming languages are JavaScript, TypeScript, and Java. I have experience developing RESTful APIs, microservices, and CI/CD pipelines, as well as implementing Authentication and Authorisation solutions. I also work with a variety of tools and platforms such as Git, Docker, Postman, Vercel, and Supabase, and write reliable tests with Vitest, Cypress, Jest and JUnit.
+As a Full-Stack Web Developer, I specialise in building modern web applications using technologies like React, Next.js, and Vue.js, comfortable working across the stack with Node.js, Spring Boot, PostgreSQL, and MongoDB. My main programming languages include JavaScript, TypeScript, and Java. I have experience developing RESTful APIs, microservices, and delivering automation solutions that enhance system efficiency. In my current role, I focus on process optimisation, system integration, and scalable tool development, contributing to smoother operational workflows.
 
-I'm proactive, adaptable, detail-oriented, and committed to continuous learning. Drawn to the creativity, problem-solving, and constant growth that software development offers, I'm eager to contribute to impactful, real-world products in a collaborative, professional environment.
+I also work with a variety of tools and platforms such as Git, Docker, Vercel, and Supabase, and have experience writing reliable tests with Vitest, Cypress, Jest and JUnit.
+
+I'm proactive, adaptable, detail-oriented, and committed to continuous learning. Drawn to the creativity, problem-solving, and constant growth that software development offers, I'm eager to contribute to impactful products.
 
 ---
 
@@ -19,6 +21,8 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?logo=javascript&logoColor=black&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-b07219?logo=java&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?logo=apachegroovy&logoColor=white&style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
