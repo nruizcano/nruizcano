@@ -1,28 +1,23 @@
 ## Hi there, I'm Nerea! 👋
 
-**Software Engineer**
+**Web Developer | Frontend / Full-Stack Engineer**
 
 Passionate about crafting scalable, modern, and user-centric solutions.
 
 ## 👩🏻‍💻 About Me
-I pursued my passion for Software Engineering at UOC University, where I built a strong foundation. In addition to my formal education, I've continuously expanded my skill set through hands-on projects and technical courses, always staying curious.
+I’m a Web Developer with a strong frontend focus and solid full-stack experience, currently working remotely as a Solutions Developer at Inditex. I enjoy building scalable, user-centric web applications and improving internal tools that streamline real-world workflows.
 
-As a Full-Stack Web Developer, I specialise in building modern web applications using technologies like React, Next.js, and Vue.js, comfortable working across the stack with Node.js, Spring Boot, PostgreSQL, and MongoDB. My main programming languages include JavaScript, TypeScript, and Java. I have experience developing RESTful APIs, microservices, and delivering automation solutions that enhance system efficiency. In my current role, I focus on process optimisation, system integration, and scalable tool development, contributing to smoother operational workflows.
+I studied Software Engineering at UOC University, where I built a strong technical foundation, and I continue to expand my skills through hands-on projects, professional experience, and continuous learning.
 
-I also work with a variety of tools and platforms such as Git, Docker, Vercel, and Supabase, and have experience writing reliable tests with Vitest, Cypress, Jest and JUnit.
+My core stack includes React, Next.js, and Vue.js, and I’m comfortable working across the backend with Node.js, Spring Boot, PostgreSQL, and MongoDB. I primarily work with TypeScript, JavaScript, and Java, and have experience designing RESTful APIs, microservices, and automation solutions that improve system efficiency and maintainability.
 
-I'm proactive, adaptable, detail-oriented, and committed to continuous learning. Drawn to the creativity, problem-solving, and constant growth that software development offers, I'm eager to contribute to impactful products.
+I’m used to working with modern development tools such as Git, Docker, GitHub Actions, Vercel, and Supabase, and I place strong emphasis on code quality and testing, using tools like Vitest, Cypress, Jest, and JUnit.
+
+I’m proactive, adaptable, and detail-oriented, and I enjoy collaborating in remote environments. I’m motivated by problem-solving and continuous growth, and I’m always looking to contribute to impactful products built with care and purpose.
 
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?logo=javascript&logoColor=black&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-b07219?logo=java&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?logo=apachegroovy&logoColor=white&style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -31,48 +26,75 @@ I'm proactive, adaptable, detail-oriented, and committed to continuous learning.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-fc03e3?logo=vite&logoColor=white&style=for-the-badge)
 
-### Backend & Databases
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-### Tools & Platforms
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?logo=javascript&logoColor=black&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-b07219?logo=java&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?logo=apachegroovy&logoColor=white&style=for-the-badge)
+
+### Testing & Quality
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+### DevOps & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-13cf83?logo=supabase&logoColor=white&style=for-the-badge)
 
-### Testing
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=for-the-badge)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-
 ---
 
 ## 🚀 Featured Projects
-- [**Milestonely**](https://milestonely.vercel.app/)  
-  *A project and team management web application built with Vue.js and Vite, offering an intuitive interface for organizing projects, managing tasks, and collaborating within teams. The backend leverages PostgreSQL with Supabase for database management and authentication, while Vitest ensures reliable testing and maintainability. Designed for streamlined productivity, it balances usability with performance.*
+[**Milestonely – Project & Team Management Platform**](https://milestonely.vercel.app/)  
+*Vue.js, Vite, Supabase, PostgreSQL, Vitest*
+- Built a collaborative project management web application focused on productivity and usability.
+- Implemented authentication and data persistence using Supabase and PostgreSQL.
+- Ensured reliability through automated testing and modular frontend architecture.
 
-- [**Photo&Film4You**](https://photo-film4you.vercel.app/)  
-  *A photography equipment rental platform developed with Vue.js and Vite, enabling users to browse, rent, and manage gear with ease. The application integrates Supabase with a PostgreSQL database for authentication and secure data handling, and supports internationalisation through i18n. Key features include wish lists, shopping carts, rental requests, incident reports, and user reviews. An admin dashboard provides catalogue management, rental oversight, and incident resolution.*
+[**Photo&Film4You – Photography Equipment Rental Platform**](https://photo-film4you.vercel.app/)  
+*Vue.js, Vite, Supabase, PostgreSQL, i18n*
+- Developed a full‑featured rental platform including wish lists, shopping carts, reviews, and incident reporting.
+- Designed an admin dashboard for catalogue, rental, and incident management.
+- Implemented internationalisation (i18n) to support multi‑language users.
 
-- [**Aircraft Scanner**](https://aircraft-scanner.vercel.app/)  
-  *A mobile-first web application built with Next.js that leverages the OpenAI API to identify aircraft from photos taken or uploaded by users. It provides detailed specifications and contextual information about each aircraft, combining a modern, responsive UI with AI-powered image recognition.*
+[**Aircraft Scanner**](https://aircraft-scanner.vercel.app/)  
+*Next.js, OpenAI API*
+- Created a mobile‑first web app that identifies aircraft from user‑uploaded photos via camera or gallery.
+- Integrated AI‑powered image recognition to deliver detailed aircraft specifications.
+- Focused on responsive UI and performance optimisation.
 
-- [**Piano Web**](https://www.nerearuizcano.me/)  
-  *Developed with Next.js and designed to showcase my journey as a pianist, share musical performances, and provide a direct contact channel. This website integrates MongoDB for sheet music management, the YouTube API to automatically display my covers, and the Maileroo API for sending messages through the contact form.*
+[**Piano Web**](https://www.nerearuizcano.me/)  
+*Next.js, MongoDB, YouTube API, Maileroo API*
+- Designed and developed a personal website showcasing musical projects and performances.
+- Integrated YouTube API for automatic content updates and MongoDB for sheet music management.
+- Implemented secure contact messaging via Maileroo API integration.
 
-- [**Real-Time Chat Server**](https://github.com/nruizcano/real-time-chat-server)  
-  *A real-time chat server built with Node.js, Express and Socket.io, featuring persistent message storage using Turso (libSQL), enabling instant messaging with user notifications and message history.*
+[**Real-Time Chat Server**](https://github.com/nruizcano/real-time-chat-server)  
+*Node.js, Express, Socket.io, Turso (libSQL)*
+- Built a real‑time messaging server with persistent storage and user notifications.
+- Designed for scalability and low‑latency communication.
 
-- [**Nanmane Discord Bot**](https://github.com/nruizcano/nanmane-discord-bot)  
-  *A versatile Node.js-powered Discord bot that integrates with the Discord API to support server administration and moderation. Features include automated moderation tools, time-management utilities, and entertainment commands, delivering both productivity and engagement for community servers.*
+[**Nanmane Discord Bot**](https://github.com/nruizcano/nanmane-discord-bot)  
+*Node.js, Discord API*
+- Developed a multifunctional Discord bot for moderation, automation, and community engagement.
+- Implemented role‑based commands and time‑management utilities.
 
-- [**Sorting Algorithms Visualizer**](https://sorting-algorithms-visualizer-seven.vercel.app/)  
-  *An interactive tool designed to visualise various sorting algorithms in action, including Insertion Sort, Bubble Sort, Quick Sort, Merge Sort, and Heap Sort, to aid in understanding their behaviour.*
+[**Sorting Algorithms Visualizer**](https://sorting-algorithms-visualizer-seven.vercel.app/)  
+*React, JavaScript*
+- An interactive tool designed to visualise various sorting algorithms in action to aid in understanding their behaviour.
+- Insertion Sort, Bubble Sort, Quick Sort, Merge Sort, and Heap Sort.
 
 ---
 
