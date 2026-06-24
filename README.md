@@ -1,6 +1,6 @@
 ## Hi there, I'm Nerea! 👋
 
-**Web Developer | Frontend / Full-Stack Engineer**
+**Software Engineer | Web Developer**
 
 Passionate about crafting scalable, modern, and user-centric solutions.
 
@@ -9,7 +9,7 @@ I’m a Web Developer with a strong frontend focus and solid full-stack experien
 
 I studied Software Engineering at UOC University, where I built a strong technical foundation, and I continue to expand my skills through hands-on projects, professional experience, and continuous learning.
 
-My core stack includes React, Next.js, and Vue.js, and I’m comfortable working across the backend with Node.js, Spring Boot, PostgreSQL, and MongoDB. I primarily work with TypeScript, JavaScript, and Java, and have experience designing RESTful APIs, microservices, and automation solutions that improve system efficiency and maintainability.
+My core stack includes React, Next.js, and Vue.js, and I’m comfortable working across the backend with Node.js, Spring Boot, PostgreSQL, and MongoDB. I primarily work with TypeScript, JavaScript, and Java, and have experience designing RESTful APIs, microservices, AI agents, and automation solutions that improve system efficiency and maintainability.
 
 I’m used to working with modern development tools such as Git, Docker, GitHub Actions, Vercel, and Supabase, and I place strong emphasis on code quality and testing, using tools like Vitest, Cypress, Jest, and JUnit.
 
